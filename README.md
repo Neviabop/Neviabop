@@ -1,3 +1,1 @@
-Hola! I'm Nev, 👋.
-I'm intresed in Lua and Java Script.
-You can contact me at Nev#2259, have a good day.
+Salutations,I'm a developer for hire, I'm quite interested in LuaU and I do js on the side. Some of my older projects where sourced from open-sourced repositories. 
